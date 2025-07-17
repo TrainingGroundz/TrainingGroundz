@@ -1,16 +1,15 @@
-## Hi there 👋
+# hey there, its Matheus!
 
-<!--
-**TrainingGroundz/TrainingGroundz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## brace yourself, youre now inside my insanity xD
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MatheusCoding/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TrainingGroundz&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/MatheusCoding/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrainingGroundz&layout=donut&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320" />
+</a>
+
+<br><br>
+[![Discord](https://img.shields.io/badge/Discord-mathe.us-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/313400012199690253)
